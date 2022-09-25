@@ -1,0 +1,19 @@
+.jatekElem{
+    width:100px;
+    height:100px;
+    border:1px solid black;
+}
+.jatekElemTarolo{
+    border:1px solid black;
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    width:fit-content;
+    height:fit-content;
+    text-align: center;
+
+}
+.jatekTerTarolo {
+    text-align: center;
+    display:grid;
+    place-items: center;
+  }
